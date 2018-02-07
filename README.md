@@ -1,0 +1,1 @@
+#Komituje przez konsole
